@@ -12,3 +12,6 @@ This is a basic frontend clone of the GeeksforGeeks website. It's a static landi
 ## Tech Stack
 * HTML5 for the page structure.
 * CSS3 for the styling (heavy use of Flexbox).
+
+## Live Demo
+https://prithvisahu06.github.io/geek-clone/
